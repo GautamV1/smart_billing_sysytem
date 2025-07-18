@@ -1,0 +1,10 @@
+Royal Grocery store invoice
+Date: 18-07-2025 07:23:29
+----------------------------------------
+wheat - 50.0 = rs250.0
+----------------------------------------
+subtotal: rs250.00
+GST (5%): rs12.50
+total payable: rs262.50
+----------------------------------------
+Thank you for shopping with us! 

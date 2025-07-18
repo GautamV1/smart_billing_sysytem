@@ -1,0 +1,11 @@
+Royal Grocery Store Invoice
+Date: 18-07-2025 07:33:57
+----------------------------------------
+Oil - 5 x Rs100.0 = Rs500.00
+Rice - 2 x Rs50.0 = Rs100.00
+----------------------------------------
+Subtotal: Rs600.00
+GST (5%): Rs30.00
+Total Payable: Rs630.00
+----------------------------------------
+Thank you for shopping with us!
